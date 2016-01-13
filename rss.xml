@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[radoslaw]]></title>
+        <description><![CDATA[radoslaw]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 18:03:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Control M newbie issues]]></title>
+            <description><![CDATA[<article><h1>Control M newbie issues</h1><p>Recently I moved automation from Oozie into BMC Control-M. Reason to that is Hadoop is just a small part in our company and maintaining many scheduling systems is a Control-M offers the pretty good tool which helps with Oozie workflow/coordinator import but still there is a lot of work to do after that.</p></article>]]></description>
+            <link>undefinedcontrol-m-newbie-issues/index.html</link>
+            <guid isPermaLink="false">88e88f4a-7ba5-42b8-bb24-45567e664ac5</guid>
+            <pubDate>Wed, 13 Jan 2016 18:02:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
