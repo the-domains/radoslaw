@@ -2,12 +2,13 @@ name: radoslaw
 favicon: null
 layout_spectrum: 0.21001
 typography_spectrum: 0.52249
+title: radoslaw stankiewicz blog
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-43930216-6
   facebook: null
   twitter: null
 opengraph:
