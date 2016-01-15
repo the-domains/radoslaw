@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T21:22:46.203Z'
-dateModified: '2016-01-15T21:22:45.175Z'
+datePublished: '2016-01-15T21:22:46.817Z'
+dateModified: '2016-01-15T21:22:45.502Z'
 title: "Random thoughts after running a Big Data Training\_"
 author: []
 sourcePath: _posts/2016-01-15-random-thoughts-after-running-a-big-data-training.md
