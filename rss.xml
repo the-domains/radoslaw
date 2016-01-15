@@ -4,8 +4,15 @@
         <description><![CDATA[radoslaw stankiewicz blog]]></description>
         <link>http://blog.zagwozdka.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 20:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 21:08:38 GMT</lastBuildDate>
         <atom:link href="http://blog.zagwozdka.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Random thoughts after running a Big Data Training ]]></title>
+            <description><![CDATA[<article><h1>Random thoughts after running a Big Data Training </h1><p>Recently I had a possibility to run a two day training for one of the software houses in Szczecin. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b68bb4e172968ad776947fd7a1dbfdbd8b511227.jpg"></article>]]></description>
+            <link>http://blog.zagwozdka.com/random-thoughts-after-running-a-big-data-training/index.html</link>
+            <guid isPermaLink="false">a3ca99ba-53aa-47b8-9321-e56bce59e022</guid>
+            <pubDate>Fri, 15 Jan 2016 21:05:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hortonworks Data Platform on AWS EC2 - yet another instruction!]]></title>
             <description><![CDATA[<article><h1>Hortonworks Data Platform on AWS EC2 - yet another instruction!</h1><h2>Sandbox is great? </h2><p> From time to time I have a possibility to run training about Hadoop ecosystem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6404d1e0c08941f8dc05f7e81db8e65d9b06665.jpg"></article>]]></description>
