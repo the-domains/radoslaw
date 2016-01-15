@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T18:39:49.021Z'
-dateModified: '2016-01-13T18:39:18.823Z'
+datePublished: '2016-01-15T21:29:21.985Z'
+dateModified: '2016-01-15T21:29:15.188Z'
 title: EMEA Citi Mobile Challenge 2015
 author: []
+sourcePath: _posts/2016-01-13-emea-citi-mobile-challenge-2015.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-emea-citi-mobile-challenge-2015.md
-published: true
 url: emea-citi-mobile-challenge-2015/index.html
 _type: Article
 
