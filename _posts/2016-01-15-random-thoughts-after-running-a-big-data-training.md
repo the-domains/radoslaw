@@ -6,27 +6,29 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T21:05:55.675Z'
-dateModified: '2016-01-15T21:05:24.433Z'
+datePublished: '2016-01-15T21:22:45.175Z'
+dateModified: '2016-01-15T21:16:31.656Z'
 title: "Random thoughts after running a Big Data Training\_"
 author: []
+sourcePath: _posts/2016-01-15-random-thoughts-after-running-a-big-data-training.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-15-random-thoughts-after-running-a-big-data-training.md
-published: true
 url: random-thoughts-after-running-a-big-data-training/index.html
 _type: Article
 
 ---
-# Random thoughts after running a Big Data Training 
+# Random thoughts after running a Big Data Training ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/555fb6d5-c6e6-4eb3-95a8-7961f530dfb9.jpg)
 
-Recently I had a possibility to run a two day training for one of the software houses in Szczecin. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/555fb6d5-c6e6-4eb3-95a8-7961f530dfb9.jpg)
+Recently I had a possibility to run a two day training for one of the software houses in Szczecin. 
 
-Training was tailored for customer needs and consisted of 5 huge parts. 
+## Agenda
+
+Training was tailored for customer needs and consisted of 5 huge parts:
 
 * Big Data Introduction
 Hadoop introduction (architecture, commands, usage) 
