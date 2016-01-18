@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T11:08:01.518Z'
-dateModified: '2016-01-18T11:08:00.852Z'
+datePublished: '2016-01-18T11:08:20.999Z'
+dateModified: '2016-01-18T11:08:02.964Z'
 title: EMEA Citi Mobile Challenge 2015
 author: []
 sourcePath: _posts/2016-01-13-emea-citi-mobile-challenge-2015.md
