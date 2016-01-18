@@ -4,7 +4,7 @@
         <description><![CDATA[radoslaw stankiewicz blog]]></description>
         <link>http://blog.zagwozdka.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 21:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 11:06:50 GMT</lastBuildDate>
         <atom:link href="http://blog.zagwozdka.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Idea
@@ -33,10 +33,10 @@
         </item>
         <item>
             <title><![CDATA[Control M newbie issues]]></title>
-            <description><![CDATA[<article><h1>Control M newbie issues</h1><p>Recently I moved automation from Oozie into BMC Control-M. Reason to that is Hadoop is just a small part in our company and maintaining many scheduling systems is a Control-M offers the pretty good tool which helps with Oozie workflow/coordinator import but still there is a lot of work to do after that.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Control M newbie issues</h1><p>I'm lazy person - I try to automate tasks as much as possible.</p></article>]]></description>
             <link>http://blog.zagwozdka.com/control-m-newbie-issues/index.html</link>
             <guid isPermaLink="false">88e88f4a-7ba5-42b8-bb24-45567e664ac5</guid>
-            <pubDate>Wed, 13 Jan 2016 18:02:56 GMT</pubDate>
+            <pubDate>Mon, 18 Jan 2016 11:06:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
