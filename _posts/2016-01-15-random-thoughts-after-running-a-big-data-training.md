@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T20:20:19.206Z'
+datePublished: '2016-01-18T20:20:19.297Z'
 dateModified: '2016-01-18T20:20:15.787Z'
 title: "Random thoughts after running a Big Data Training\_"
 author: []
