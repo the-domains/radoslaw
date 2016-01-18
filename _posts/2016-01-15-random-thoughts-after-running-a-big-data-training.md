@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T11:07:03.216Z'
-dateModified: '2016-01-15T21:36:52.096Z'
+datePublished: '2016-01-18T11:11:33.592Z'
+dateModified: '2016-01-18T11:11:30.461Z'
 title: "Random thoughts after running a Big Data Training\_"
 author: []
 sourcePath: _posts/2016-01-15-random-thoughts-after-running-a-big-data-training.md
@@ -109,9 +109,10 @@ Pros:
 
 I found Github very useful to share starter mavenized projects. Most of developers already use github and they didn't have any problems with forking, downloading and importing the projects. 
 Gist was very helpful when sharing simple command lines for downloading, extracting binaries, running applications etc.
-I remember a slide full of command lines and asking participant to write commands which always finished with a lot of typing errors - with gist it won't happen anymore. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9ca3def-9d42-4bfe-8d73-0e2286c886e2.jpg)
+I remember a slide full of command lines and asking participant to write commands which always finished with a lot of typing errors - with gist it won't happen anymore. 
 
 By the way, many thanks to [Sages Sp z o.o.][1] for this opportunity :-)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9ca3def-9d42-4bfe-8d73-0e2286c886e2.jpg)
 
 [0]: https://chrome.google.com/webstore/detail/sense-beta/lhjgkmllcaadmopgmanpapmpjgmfcfig
 [1]: http://www.sages.com.pl/
