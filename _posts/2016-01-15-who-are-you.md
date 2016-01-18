@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: some links
-datePublished: '2016-01-18T11:04:04.609Z'
-dateModified: '2016-01-18T11:04:00.413Z'
-title: Who are you?
+datePublished: '2016-01-18T11:14:35.982Z'
+dateModified: '2016-01-18T11:14:33.674Z'
+title: '#Whoami?'
 author: []
 sourcePath: _posts/2016-01-15-who-are-you.md
 published: true
@@ -22,16 +22,14 @@ url: who-are-you/index.html
 _type: WebPage
 
 ---
-# Who are you?
+# \#Whoami?
 
 There are several ways to get in touch:
 
 * [Check my website][0]
 * [LinkedIn][1]
 
-Cheers,
-
 Radek
 
-[0]: www.zagwozdka.com
+[0]: http://www.zagwozdka.com/
 [1]: https://pl.linkedin.com/in/stankiewicz
