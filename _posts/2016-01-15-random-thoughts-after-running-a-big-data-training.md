@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T21:22:46.817Z'
-dateModified: '2016-01-15T21:22:45.502Z'
+datePublished: '2016-01-18T11:07:02.969Z'
+dateModified: '2016-01-15T21:36:52.096Z'
 title: "Random thoughts after running a Big Data Training\_"
 author: []
 sourcePath: _posts/2016-01-15-random-thoughts-after-running-a-big-data-training.md
@@ -22,7 +22,7 @@ url: random-thoughts-after-running-a-big-data-training/index.html
 _type: Article
 
 ---
-# Random thoughts after running a Big Data Training ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/555fb6d5-c6e6-4eb3-95a8-7961f530dfb9.jpg)
+# Random thoughts after running a Big Data Training ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/203cbf25bbb191bb79b08223d2fd5f645cfda74f.jpg)
 
 Recently I had a possibility to run a two day training for one of the software houses in Szczecin. 
 
@@ -36,6 +36,8 @@ Hadoop introduction (architecture, commands, usage)
 * Pig (getting started guide, different running modes, PigUnit) 
 * Hive (introduction, serdes, file formats, integrations) 
 * Elastic Search & Kibana (introduction, search concept, integration with Hadoop Ecosystem, Kibana)
+
+## Feedback
 
 Training finished with very good notes, but surveys shown that there are places where I can do better and this post is about those places and many more I have found out by myself. 
 
