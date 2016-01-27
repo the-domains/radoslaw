@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Issues with Control M I have faced during automatization of Hadoop cluster
-datePublished: '2016-01-27T00:22:06.982Z'
+datePublished: '2016-01-27T00:22:07.928Z'
 dateModified: '2016-01-27T00:21:54.476Z'
 title: Control M newbie issues
 author: []
