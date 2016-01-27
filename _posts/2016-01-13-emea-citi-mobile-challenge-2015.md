@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T20:11:26.486Z'
-dateModified: '2016-01-18T20:11:23.920Z'
+datePublished: '2016-01-27T00:32:08.018Z'
+dateModified: '2016-01-27T00:31:54.158Z'
 title: EMEA Citi Mobile Challenge 2015
 author: []
 sourcePath: _posts/2016-01-13-emea-citi-mobile-challenge-2015.md
@@ -25,7 +25,7 @@ _type: Article
 # EMEA Citi Mobile Challenge 2015
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/116bc2c4-0fdf-4cc2-919d-76794a072267.jpg)
 
-Recently I have finished our journey with Citi Mobile Challenge. It was exciting 7 weeks! 
+Recently I have finished the journey with Citi Mobile Challenge. It was exciting 7 weeks! 
 
 ## Idea
 
