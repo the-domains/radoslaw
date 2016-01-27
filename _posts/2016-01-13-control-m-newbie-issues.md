@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Issues with Control M I have faced during automatization of Hadoop cluster
-datePublished: '2016-01-18T11:06:48.798Z'
-dateModified: '2016-01-18T11:06:48.626Z'
+datePublished: '2016-01-27T00:22:06.982Z'
+dateModified: '2016-01-27T00:21:54.476Z'
 title: Control M newbie issues
 author: []
 sourcePath: _posts/2016-01-13-control-m-newbie-issues.md
@@ -35,8 +35,6 @@ Control-M offers the pretty good tool which helps with Oozie workflow/coordinato
 
 As I didn't have prior knowledge about Control-M I used 'F1 help' a lot and I faced few beginner issues.
 
-#### 
-
 ## System variables and their format 
 
 I've configured a job that run reports with parameters set to yesterday's date. Control-M supports that by system variables like: %%ODATE which has a value of current order date. The problem is that this variable has yymmdd format. My task preferred yyyymmdd format. I've found out that there is**%%$ODATE** which has yyyymmdd format. Great!
@@ -50,8 +48,6 @@ There is the small catch, whitespaces. I wasn't aware why "**%%$CALCDATE %%$ODAT
 Documentation specifies specifies format: 
 > 
 > result=%%CALCDATE date +|-quantity.
-
-#### 
 
 ## Sqoop
 
