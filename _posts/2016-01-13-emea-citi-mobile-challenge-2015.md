@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T00:32:08.135Z'
-dateModified: '2016-01-27T00:31:54.158Z'
+datePublished: '2016-01-27T00:38:51.620Z'
+dateModified: '2016-01-27T00:38:50.143Z'
 title: EMEA Citi Mobile Challenge 2015
 author: []
 sourcePath: _posts/2016-01-13-emea-citi-mobile-challenge-2015.md
@@ -29,8 +29,9 @@ Recently I have finished the journey with Citi Mobile Challenge. It was exciting
 
 ## Idea
 
-It all began on 10th of March when We've decided that I and group of my friends want to join the challenge.
-It appeared that on this day we are not only registering ourselves but we are supposed to submit diagrams with use cases, narrative for our app and write something about our team and create website. After few hours and dozens of emails exchanged we decided about one specific idea:
+It all began on 10th of March when We've decided that with group of my friends We want to join the challenge. 
+
+It appeared that on this day we are not only registering ourselves but we are supposed to submit diagrams with use cases, narrative for our product and write hundreds words about our team and even create the website. After few hours and dozens of emails exchanged we decided about one specific idea:
 
 > I'm your Bank in your smart device. You can simply talk to me.
 
