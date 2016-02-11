@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T20:20:19.398Z'
-dateModified: '2016-01-18T20:20:15.787Z'
+datePublished: '2016-02-11T16:45:48.641Z'
+dateModified: '2016-02-11T16:45:43.962Z'
 title: "Random thoughts after running a Big Data Training\_"
 author: []
 sourcePath: _posts/2016-01-15-random-thoughts-after-running-a-big-data-training.md
@@ -85,7 +85,7 @@ I found Mortar's Pig and Hortonworks Hive cheat sheets very helpful but they lac
 
 ## Programming Environment 
 
-One of key points I wanted to proove in training was showing that most of the training material can be finished without use of cluster or Hadoop itself. For that I have created starter projects on github for Pig and Java Map Reduce that participants could download and fill with their code. They could write MRUnit tests, run Map Reduce Java job in local mode (without cluster or hdfs), write Pig scripts and test them with PigUnit. But I have faced some problems as well:
+One of key points I wanted to prove in training was showing that most of the training material can be finished without use of cluster or Hadoop itself. For that I have created starter projects on github for Pig and Java Map Reduce that participants could download and fill with their code. They could write MRUnit tests, run Map Reduce Java job in local mode (without cluster or hdfs), write Pig scripts and test them with PigUnit. But I have faced some problems as well:
 
 * For this training I told that Mac OS or Linux is required but two participants had Windows so they couldn't finish their tasks - For Windows systems it is required to have binaries of Hadoop. It has taken me about 4-5 hours to organise all dependencies and compile Hadoop 2.5 so it may be difficult to give it as a prerequisite for training. Next time probably I need to provide this as a downloadable package for participants (both versions - 32bit and 64bit)
 * Pig Unit is not very well documented and there is not so much development around it - is it good idea to teach about it? 
